@@ -43,4 +43,4 @@ tzdata==2024.2
 urllib3==2.2.3
 xyzservices==2024.9.0
 plotly
-
+calplot
